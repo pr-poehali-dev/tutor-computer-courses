@@ -114,7 +114,7 @@ const Index = () => {
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
-            <Icon name="GraduationCap" size={32} className="text-primary" />
+            <img src="https://cdn.poehali.dev/files/b61ea0f2-ff50-4d96-a115-ec8c41c254c1.png" alt="Logo" className="w-8 h-8" />
             <span className="text-xl font-bold">CodeTutor</span>
           </div>
           <nav className="hidden md:flex items-center gap-6">
@@ -543,7 +543,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
-              <Icon name="GraduationCap" size={24} className="text-primary" />
+              <img src="https://cdn.poehali.dev/files/b61ea0f2-ff50-4d96-a115-ec8c41c254c1.png" alt="Logo" className="w-6 h-6" />
               <span className="font-semibold">CodeTutor</span>
             </div>
             <p className="text-sm text-muted-foreground">© 2024 CodeTutor. Все права защищены.</p>
